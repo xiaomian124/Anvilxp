@@ -1,0 +1,6 @@
+name: Anvilxp
+version: 1.2
+main: com.xiaomian124.anvilxp.Anvilxp
+api-version: '26.2'
+author: xiaomian124
+description: 移除铁砧过于昂贵限制，并自定义经验等级算法以及支持Bedrock玩家使用自定义铁砧。
